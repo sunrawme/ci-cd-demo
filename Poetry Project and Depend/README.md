@@ -168,9 +168,10 @@ Verify pip:
 pip3 --version
 ```
 
-**Screenshot 1 – Python Version:** Add screenshot showing `python3 --version` and its output.
+<img width="777" height="159" alt="image" src="https://github.com/user-attachments/assets/1b03409e-010c-4c65-b80e-e7be9f24c9dd" />
 
-**Screenshot 2 – pip Version:** Add screenshot showing `pip3 --version` and its output.
+
+<img width="956" height="127" alt="image" src="https://github.com/user-attachments/assets/3d1e6f86-fbb1-4939-b946-bf8f6bd33be9" />
 
 ### Run Time Dependency
 
@@ -192,7 +193,7 @@ Verify Poetry:
 poetry --version
 ```
 
-**Screenshot 3 – Poetry Installation/Verification:** Add screenshot showing Poetry installation and `poetry --version`.
+<img width="611" height="357" alt="image" src="https://github.com/user-attachments/assets/5bc10bbe-490d-45d8-876a-da18d1b6f1f7" />
 
 ### Other Dependency
 
@@ -222,7 +223,7 @@ Enter the project:
 cd poetry-demo
 ```
 
-**Screenshot 4 – Project Creation:** Add screenshot showing `poetry new poetry-demo` and `cd poetry-demo`.
+<img width="642" height="245" alt="image" src="https://github.com/user-attachments/assets/f79a539b-2890-466d-8b10-1e6cea69bc03" />
 
 ### Verify Project Structure
 
@@ -256,7 +257,7 @@ poetry-demo/
     └── __init__.py
 ```
 
-**Screenshot 5 – Project Structure:** Add screenshot showing the complete project structure.
+<img width="653" height="479" alt="image" src="https://github.com/user-attachments/assets/dc797d9b-12ff-445c-a61f-bfbb6d4da325" />
 
 ### Verify `pyproject.toml`
 
@@ -272,7 +273,7 @@ The file contains project configuration such as:
 - Dependencies
 - Build configuration
 
-**Screenshot 6 – pyproject.toml:** Add screenshot showing the contents of `pyproject.toml`.
+<img width="670" height="285" alt="image" src="https://github.com/user-attachments/assets/481d85fa-c90d-44f0-afdb-7c602f09f294" />
 
 ### Check Poetry Environment
 
@@ -282,7 +283,7 @@ poetry env info
 
 Poetry should display information about the Python version, virtual environment, environment path, executable, and validity.
 
-**Screenshot 7 – Poetry Environment:** Add screenshot showing `poetry env info`.
+<img width="704" height="318" alt="image" src="https://github.com/user-attachments/assets/d743f9dc-5ca7-4b26-b761-7c19f85242af" />
 
 ### Check Virtual Environment Path
 
@@ -290,7 +291,7 @@ Poetry should display information about the Python version, virtual environment,
 poetry env info --path
 ```
 
-**Screenshot 8 – Environment Path:** Add screenshot showing the Poetry virtual environment path.
+<img width="826" height="85" alt="image" src="https://github.com/user-attachments/assets/61a1f3b1-314e-4df0-9ffe-4b1676ed221e" />
 
 ### Install Project Dependencies
 
@@ -300,7 +301,7 @@ poetry install
 
 This creates or uses the Poetry virtual environment and installs the project dependencies.
 
-**Screenshot 9 – Poetry Install:** Add screenshot showing successful `poetry install`.
+<img width="1017" height="119" alt="image" src="https://github.com/user-attachments/assets/4fc02645-b5f3-4c3d-a614-f0d6880bf3a9" />
 
 ### Add a Python Dependency
 
@@ -312,7 +313,7 @@ poetry add requests
 
 Poetry resolves and installs the package and updates the project dependency information and lock file.
 
-**Screenshot 10 – Add Dependency:** Add screenshot showing `poetry add requests`.
+<img width="598" height="319" alt="image" src="https://github.com/user-attachments/assets/e06bc061-a9dc-473e-affd-c90762838821" />
 
 ### Verify Installed Dependencies
 
@@ -322,7 +323,7 @@ poetry show
 
 The installed packages should be displayed.
 
-**Screenshot 11 – Installed Dependencies:** Add screenshot showing `poetry show`.
+<img width="821" height="164" alt="image" src="https://github.com/user-attachments/assets/0fc1a544-4b33-4a44-8957-65d61163b4ba" />
 
 ### Verify a Specific Dependency
 
@@ -330,7 +331,7 @@ The installed packages should be displayed.
 poetry show requests
 ```
 
-**Screenshot 12 – Requests Package:** Add screenshot showing `poetry show requests`.
+<img width="823" height="268" alt="image" src="https://github.com/user-attachments/assets/412b3738-38d5-4b43-a232-1769a5d06c8f" />
 
 ### Verify Updated `pyproject.toml`
 
@@ -340,13 +341,14 @@ cat pyproject.toml
 
 The dependency section should contain `requests`.
 
-**Screenshot 13 – Updated pyproject.toml:** Add screenshot showing `requests` in the dependency configuration.
+<img width="784" height="310" alt="image" src="https://github.com/user-attachments/assets/dbe69a28-2e9a-4e13-91c8-f3977e002119" />
 
 ### Verify `poetry.lock`
 
 ```bash
 ls -l poetry.lock
 ```
+<img width="749" height="119" alt="image" src="https://github.com/user-attachments/assets/5bab560d-ee50-4552-8f91-f0b8bde4b925" />
 
 Optionally inspect the beginning of the file:
 
@@ -354,7 +356,7 @@ Optionally inspect the beginning of the file:
 head -30 poetry.lock
 ```
 
-**Screenshot 14 – poetry.lock:** Add screenshot showing the lock file and its contents.
+<img width="1342" height="1013" alt="image" src="https://github.com/user-attachments/assets/25b17102-6c81-4aab-83e3-d419a04bb8f2" />
 
 ## Step 3: Application Deployment / Execution
 
@@ -366,7 +368,7 @@ poetry run python --version
 
 This confirms that Python is being executed from the Poetry-managed environment.
 
-**Screenshot 15 – Poetry Python:** Add screenshot showing `poetry run python --version`.
+<img width="1100" height="124" alt="image" src="https://github.com/user-attachments/assets/78ced5ac-5f8e-4fb1-82b0-e41d44ae46a4" />
 
 ### Verify Dependency Inside the Poetry Environment
 
@@ -374,7 +376,7 @@ This confirms that Python is being executed from the Poetry-managed environment.
 poetry run python -c "import requests; print(requests.__version__)"
 ```
 
-**Screenshot 16 – Requests Verification:** Add screenshot showing the installed `requests` version.
+<img width="1135" height="140" alt="image" src="https://github.com/user-attachments/assets/d7269a54-c6b6-4ef9-aa02-55ff05cae2ca" />
 
 ### Create the Python Application
 
@@ -400,7 +402,7 @@ Save the file and verify it:
 cat app.py
 ```
 
-**Screenshot 17 – Application File:** Add screenshot showing the complete `app.py` code.
+<img width="774" height="220" alt="image" src="https://github.com/user-attachments/assets/18c1a82b-4f85-43af-a55c-f7d41c7d470f" />
 
 ### Run the Python Application
 
@@ -416,7 +418,7 @@ Status Code: 200
 
 The exact status code may vary depending on the external endpoint response.
 
-**Screenshot 18 – Application Execution:** Add screenshot showing successful execution of `app.py`.
+<img width="1031" height="144" alt="image" src="https://github.com/user-attachments/assets/44d17516-8d39-4de2-a122-fff3cbd9dfc7" />
 
 ### Run Commands in the Poetry Context
 
@@ -438,7 +440,7 @@ Run the application:
 poetry run python app.py
 ```
 
-**Screenshot 19 – Poetry Run Commands:** Add screenshot showing the `poetry run` commands and their output.
+<img width="1067" height="86" alt="image" src="https://github.com/user-attachments/assets/d75f3df2-5916-4faf-a8f1-ac5d83cdd532" />
 
 ### Remove a Dependency
 
@@ -448,7 +450,7 @@ poetry remove requests
 
 This removes the dependency and updates the project dependency information and lock file.
 
-**Screenshot 20 – Remove Dependency:** Add screenshot showing successful `poetry remove requests`.
+<img width="618" height="249" alt="image" src="https://github.com/user-attachments/assets/6543e3f7-c4ed-4ca4-8f69-278817ffa7d2" />
 
 ### Verify Dependency Removal
 
@@ -462,7 +464,7 @@ Or:
 poetry show requests
 ```
 
-**Screenshot 21 – Dependency Removal Verification:** Add screenshot showing the verification result.
+<img width="938" height="103" alt="image" src="https://github.com/user-attachments/assets/95f70d45-253c-466a-9dc0-047053f540d1" />
 
 ### Validate the Project
 
@@ -472,7 +474,7 @@ poetry check
 
 This checks the Poetry project configuration.
 
-**Screenshot 22 – Poetry Check:** Add screenshot showing successful project validation.
+<img width="705" height="278" alt="image" src="https://github.com/user-attachments/assets/275672a1-8a15-468d-bb7d-c7985e5fe553" />
 
 ## Monitoring
 
@@ -572,8 +574,10 @@ Verify:
 ```bash
 poetry --version
 ```
+<img width="869" height="112" alt="image" src="https://github.com/user-attachments/assets/514d0d14-ec53-413d-8d37-384c05690c21" />
 
-**Screenshot – Troubleshooting:** Add screenshot showing the issue and the successful PATH/Poetry verification.
+
+<img width="1038" height="225" alt="image" src="https://github.com/user-attachments/assets/f6e987a7-a2e2-4d9a-9b80-eb47cdcc6c3c" />
 
 ### Issue 2: `ModuleNotFoundError`
 
@@ -595,7 +599,7 @@ Run the application:
 poetry run python app.py
 ```
 
-**Screenshot – ModuleNotFoundError:** Add screenshot showing the error and resolution.
+<img width="758" height="401" alt="image" src="https://github.com/user-attachments/assets/560e7ecf-dad5-4a22-867d-6b75b5abd1bb" />
 
 ### Issue 3: Python Syntax Error
 
@@ -611,7 +615,7 @@ Correct the code and run:
 poetry run python app.py
 ```
 
-**Screenshot – Syntax Error:** Add screenshot showing the issue and corrected execution.
+<img width="899" height="229" alt="image" src="https://github.com/user-attachments/assets/875844d2-3287-47f1-ba03-f2e0b3bf9dc1" />
 
 ## FAQs
 
