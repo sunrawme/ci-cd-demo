@@ -115,3 +115,9 @@ Example:
 ```python
 if age >= 18:
     print("Adult")
+
+## Contact Information
+
+| Name | Email |
+|------|-------|
+| Sandeep Rawat  | <email> |
