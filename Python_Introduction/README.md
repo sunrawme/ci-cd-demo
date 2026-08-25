@@ -112,12 +112,17 @@ Python code is designed to be easy to read and understand. It uses indentation t
 
 Example:
 
-```python
+'''python
 if age >= 18:
-    print("Adult")
-
-## Contact Information
+   print("Adult")
 
 | Name | Email |
 |------|-------|
 | Sandeep Rawat  | <email> |
+
+```python
+if age >= 18:
+    print("Adult")
+
+'''python
+
