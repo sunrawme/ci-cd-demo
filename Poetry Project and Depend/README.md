@@ -820,6 +820,11 @@ Test
   ↓
 Deploy
 ```
+## Contact Information
+
+| Name | Email |
+|------|-------|
+| Sandeep Rawat  | <email> |
 
 ## References
 
