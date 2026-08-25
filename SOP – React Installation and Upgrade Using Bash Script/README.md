@@ -91,11 +91,8 @@ Expected result:
 Ubuntu/Linux operating system information
 ```
 
-**Screenshot:**
+<img width="938" height="349" alt="image" src="https://github.com/user-attachments/assets/b23dbe9c-8359-4d96-8e5a-6da43830c835" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Verify Operating System"
-src="<SCREENSHOT_OS>" />
 
 ---
 
@@ -111,11 +108,8 @@ Expected result:
 GNU bash version information
 ```
 
-**Screenshot:**
+<img width="914" height="209" alt="image" src="https://github.com/user-attachments/assets/49ce84ab-6949-4b92-b04c-3b1b693cf2be" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Verify Bash"
-src="<SCREENSHOT_BASH>" />
 
 ---
 
@@ -126,12 +120,7 @@ React applications require Node.js.
 ```bash
 node --version
 ```
-
-**Screenshot:**
-
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Verify Node.js"
-src="<SCREENSHOT_NODE>" />
+<img width="969" height="125" alt="image" src="https://github.com/user-attachments/assets/50e63d6d-1281-4c01-bfc4-f57a35a0467f" />
 
 ---
 
@@ -147,11 +136,8 @@ Expected result:
 Installed npm version
 ```
 
-**Screenshot:**
+<img width="723" height="100" alt="image" src="https://github.com/user-attachments/assets/f333de69-04be-41a5-a722-c2d35369f43c" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Verify npm"
-src="<SCREENSHOT_NPM>" />
 
 ---
 
@@ -178,11 +164,8 @@ Expected:
 /home/<user>/react-projects
 ```
 
-**Screenshot:**
+<img width="888" height="186" alt="image" src="https://github.com/user-attachments/assets/0d93375a-ed2b-493e-ad10-a78b61a1ec43" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Working Directory"
-src="<SCREENSHOT_WORKING_DIRECTORY>" />
 
 ---
 
@@ -333,11 +316,8 @@ Enter
 Ctrl + X
 ```
 
-**Screenshot:**
+<img width="1183" height="231" alt="image" src="https://github.com/user-attachments/assets/927ff377-84b5-400c-8646-338d15fc7efd" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Bash Installation Script"
-src="<SCREENSHOT_SCRIPT>" />
 
 ---
 
@@ -355,11 +335,9 @@ ls -l install-react.sh
 
 Expected permissions should include `x`.
 
-**Screenshot:**
+<img width="1183" height="231" alt="image" src="https://github.com/user-attachments/assets/bde2fad1-9475-44eb-b5d1-545985debfda" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Script Permissions"
-src="<SCREENSHOT_SCRIPT_PERMISSIONS>" />
+
 
 ---
 
@@ -379,11 +357,9 @@ Expected result:
 No output / no syntax errors
 ```
 
-**Screenshot:**
+<img width="1328" height="67" alt="image" src="https://github.com/user-attachments/assets/a4b75b24-f280-4967-b2ba-e2f58607b7bf" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Bash Syntax Validation"
-src="<SCREENSHOT_SYNTAX>" />
+
 
 ---
 
@@ -413,12 +389,9 @@ Supported React versions:
   18
   19
 ```
+<img width="748" height="325" alt="image" src="https://github.com/user-attachments/assets/06f50462-8cab-420f-8baf-c6acca224b7e" />
 
-**Screenshot:**
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Script Help"
-src="<SCREENSHOT_HELP>" />
 
 ---
 
@@ -449,11 +422,9 @@ Expected:
 package.json
 ```
 
-**Screenshot:**
+<img width="777" height="350" alt="image" src="https://github.com/user-attachments/assets/55eec8d0-db4e-4f2b-bf69-d2050d4d2dbc" />
+>
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React Project Creation"
-src="<SCREENSHOT_PROJECT_CREATION>" />
 
 ---
 
@@ -477,12 +448,9 @@ npm version: <version>
 Installing React 18...
 React 18 installation completed.
 ```
+<img width="925" height="240" alt="image" src="https://github.com/user-attachments/assets/a2d5f8c8-2ed2-4cbb-a876-4ceca4f00d27" />
 
-**Screenshot:**
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React 18 Installation"
-src="<SCREENSHOT_REACT18_INSTALL>" />
 
 Verify:
 
@@ -492,11 +460,9 @@ npm list react react-dom --depth=0
 
 Expected result should show React 18.x and React DOM 18.x.
 
-**Screenshot:**
+<img width="913" height="197" alt="image" src="https://github.com/user-attachments/assets/3fa7fe10-497a-4560-9751-e798930f1cfd" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React 18 Verification"
-src="<SCREENSHOT_REACT18_VERIFY>" />
+
 
 ---
 
@@ -523,11 +489,9 @@ react@19.x
 react-dom@19.x
 ```
 
-**Screenshot:**
+<img width="826" height="254" alt="image" src="https://github.com/user-attachments/assets/631b1164-7e4a-4a35-b96a-cf953dc8d5b5" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React 19 Installation and Verification"
-src="<SCREENSHOT_REACT19>" />
+
 
 ---
 
@@ -540,12 +504,9 @@ Check the current version:
 ```bash
 npm list react react-dom --depth=0
 ```
+<img width="865" height="148" alt="image" src="https://github.com/user-attachments/assets/7f55bda4-fd4f-4886-bce4-45bcb55181c4" />
 
-**Screenshot:**
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Current React Version"
-src="<SCREENSHOT_CURRENT_VERSION>" />
 
 Upgrade to React 19:
 
@@ -553,11 +514,9 @@ Upgrade to React 19:
 ../install-react.sh upgrade 19
 ```
 
-**Screenshot:**
+<img width="749" height="221" alt="image" src="https://github.com/user-attachments/assets/ecf5ad2a-0b57-4b84-a455-b46a6062b1a1" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React Upgrade"
-src="<SCREENSHOT_UPGRADE>" />
+
 
 Verify:
 
@@ -572,11 +531,9 @@ react@19.x
 react-dom@19.x
 ```
 
-**Screenshot:**
+<img width="1333" height="72" alt="image" src="https://github.com/user-attachments/assets/7e7e5a81-05f8-4093-b716-0c06bcdf3330" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React Upgrade Verification"
-src="<SCREENSHOT_UPGRADE_VERIFY>" />
+
 
 ---
 
@@ -598,11 +555,9 @@ react@<version>
 react-dom@<version>
 ```
 
-**Screenshot:**
+<img width="1281" height="406" alt="image" src="https://github.com/user-attachments/assets/b6007735-ebc2-4847-bd0e-4b64c7fff47c" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="React Verification Using Script"
-src="<SCREENSHOT_SCRIPT_VERIFY>" />
+
 
 ---
 
@@ -625,11 +580,9 @@ Supported versions: 17 18 19
 
 The project should not install React 20 through this script because it is not included in the approved supported-version list.
 
-**Screenshot:**
+<img width="1314" height="134" alt="image" src="https://github.com/user-attachments/assets/fd2cd4e0-c6ef-4385-89c1-b18aff4a17d4" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Invalid React Version"
-src="<SCREENSHOT_INVALID_VERSION>" />
+
 
 ---
 
@@ -649,11 +602,9 @@ ERROR: Invalid command.
 
 The script should display the usage information.
 
-**Screenshot:**
+<img width="537" height="229" alt="image" src="https://github.com/user-attachments/assets/78fa2670-74c8-40b9-a752-4864b4dd02be" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Invalid Command"
-src="<SCREENSHOT_INVALID_COMMAND>" />
+
 
 ---
 
@@ -679,12 +630,8 @@ Example:
   "react-dom": "..."
 }
 ```
+<img width="927" height="378" alt="image" src="https://github.com/user-attachments/assets/47d95409-3078-448a-a53b-96686b3864a1" />
 
-**Screenshot:**
-
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="package.json Verification"
-src="<SCREENSHOT_PACKAGE_JSON>" />
 
 ---
 
@@ -700,11 +647,8 @@ Expected:
 
 The installed top-level packages should be displayed.
 
-**Screenshot:**
+<img width="1234" height="195" alt="image" src="https://github.com/user-attachments/assets/2f361bed-2ce8-4bfb-bed9-09129996ae8d" />
 
-<!-- Add screenshot here -->
-<img width="900" height="500" alt="Installed Packages"
-src="<SCREENSHOT_INSTALLED_PACKAGES>" />
 
 ---
 
