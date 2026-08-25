@@ -843,7 +843,7 @@ Additional versions should be added only after validating their compatibility wi
 
 | **Name** | **Email** |
 | -------- | --------- |
-| <Name> | [<email>](mailto:<email>) |
+| Sandeep Rawat | [<email>](mailto:<email>) |
 
 ---
 
