@@ -843,7 +843,7 @@ Additional versions should be added only after validating their compatibility wi
 
 | **Name** | **Email** |
 | -------- | --------- |
-| Sandeep Rawat | [<email>](mailto:<email>) |
+| Sandeep Rawat | sandeep.rawat.snaatak@mygurukulam.com |
 
 ---
 
