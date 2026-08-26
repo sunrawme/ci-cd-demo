@@ -78,6 +78,9 @@ The objective of this POC is to:
 sudo apt update
 sudo apt install -y ansible git python3-pip
 
+<img width="903" height="343" alt="image" src="https://github.com/user-attachments/assets/f76d4a44-cd17-4418-abc6-87790ae3231e" />
+
+
 
 
 ansible --version
