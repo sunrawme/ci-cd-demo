@@ -13,7 +13,7 @@ src="<IMAGE_URL>" />
 
 | **Author** | **Created On** | **Version** | **Last Updated By** | **Last Edited On** | **L0 Reviewer** | **L1 Reviewer** | **L2 Reviewer** |
 | ---------- | -------------- | ----------- | -------------------- | ------------------- | ---------------- | ---------------- | ---------------- |
-| Sandeep | <DD-MM-YYYY> | v1.0 | Sandeep | <DD-MM-YYYY> | <L0 Reviewer> | <L1 Reviewer> | <L2 Reviewer> |
+| Sandeep Rawat| <26-08-2026> | v1.0 | Sandeep | <DD-MM-YYYY> | <L0 Reviewer> | <L1 Reviewer> | <L2 Reviewer> |
 
 ---
 
@@ -78,6 +78,8 @@ The objective of this POC is to:
 ```bash
 sudo apt update
 sudo apt install -y ansible git python3-pip
+
+
 
 ansible --version
 ```
