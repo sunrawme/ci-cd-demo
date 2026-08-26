@@ -942,7 +942,7 @@ The CI workflow provides a repeatable and automated process for validating appli
 
 | **Name** | **Email** |
 | -------- | --------- |
-| Sandeep Rawat | [<email>](mailto:<email>) |
+| Sandeep Rawat | sandeep.rawat.snaatak@mygurukulam.com |
 
 ---
 
