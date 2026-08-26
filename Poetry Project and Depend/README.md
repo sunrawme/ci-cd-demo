@@ -824,7 +824,7 @@ Deploy
 
 | Name | Email |
 |------|-------|
-| Sandeep Rawat  | <email> |
+| Sandeep Rawat  | sandeep.rawat.snaatak@mygurukulam.com |
 
 ## References
 
