@@ -2,8 +2,7 @@
 
 # POC: Ansible Role & CI Workflow for Nginx Deployment
 
-<img width="800" height="400" alt="image"
-src="<IMAGE_URL>" />
+
 
 </div>
 
