@@ -2,7 +2,9 @@
 
 # React Installation and Upgrade Using Bash Script
 
+>
 
+</div>
 ---
 
 # Author Table
