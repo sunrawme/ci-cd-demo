@@ -10,9 +10,9 @@
 
 # Author Table
 
-| **Author** | **Created On** | **Version** | **Last Updated By** | **Last Edited On** | **L0 Reviewer** | **L1 Reviewer** | **L2 Reviewer** |
-| ---------- | -------------- | ----------- | -------------------- | ------------------- | ---------------- | ---------------- | ---------------- |
-| Sandeep Rawat | 26-08-2026> | v1.0 | Sandeep | <DD-MM-YYYY> | <L0 Reviewer> | <L1 Reviewer> | <L2 Reviewer> |
+| **Author** | **Created on** | **Version** | **Last updated by** | **Last edited on** |
+|---|---|---|---|---|
+| Sandeep Rawat | 24-08-2026 | Version 1 | Sandeep Rawat | 24-08-2026 |
 
 ---
 
