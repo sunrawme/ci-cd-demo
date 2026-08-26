@@ -2,10 +2,6 @@
 
 # React Installation and Upgrade Using Bash Script
 
-<img width="700" height="350" alt="React Installation and Upgrade POC"
-src="<IMAGE_URL>" />
-
-</div>
 
 ---
 
